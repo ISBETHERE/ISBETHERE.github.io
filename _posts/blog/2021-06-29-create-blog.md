@@ -42,7 +42,7 @@ minimal_mistakes_skin    : "dark"
 title                    : "상행전용 웹개발자"
 name                     : "상행전용 웹개발자"
 description              : "회사에서는 월급 받고 집에서는 취미로 코딩하는 개발자의 블로그"
-url                      : "https://isbethere.github.io"
+url                      : "https://.github.io"
 baseurl                  : # 서브 경로가 있는 경우 기재
 ```
 
@@ -88,10 +88,10 @@ author:
       url: "oksky2957@daum.net"
     - label: "Blog"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/isbethere"
+      url: "https://.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/isbethere"
+      url: "https://.github.io"
 ```
 
 #### 저자 설정 - Footer
