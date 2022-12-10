@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "상행전용IsBeThere"
 title_separator          : "-"
-subtitle                 : "Always up to the sky goat"
+subtitle                 : "Always up to the sky GOAT"
 name                     : "상행전용IsBeThere" # &name is a YAML anchor which can be *referenced later
 description              : "상행전용IsBeThere 의 블로그 입니다"
 url                      : "https://isbethere.github.io"
