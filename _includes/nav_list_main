@@ -28,6 +28,11 @@
                         <li><a href="/categories/database" class="">DATABASE ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
+                {% for category in site.categories %}
+                {% if category[0] == "정보처리기사" %}
+                    <li><a href="/categories/정보처리기사" class="">정보처리기사 ({{category[1].size}})</a></li>
+                {% endif %}
+            {% endfor %}
             </ul>
         <span class="nav__sub-title">Etc</span>
             <ul>
