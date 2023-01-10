@@ -1,34 +1,17 @@
 ---
-title: 바닐라 자바스크립트 **console.log** 찍어보기
+title: 정보처리기사
 categories:
-  - Javascript
+  - 정보처리기사
 tags:
-  - Javascript
+  - 정보처리기사
 toc: true
 ---
 
-## 변수선언 형식
+# **BOJ 1406. 에디터**
+![image](https://user-images.githubusercontent.com/39984656/134811823-74ded316-1bd7-4f9c-80aa-5d7305a75b33.png)
+![image](https://user-images.githubusercontent.com/39984656/134811829-e9bd4fb6-19ac-493b-89b3-99c7c99e913d.png)
 
-변수명은 문자(특수문자 제외), 숫자, _(언더스코어), $(달러기호)를 포함하여 만들 수 있다.
-변수명은 숫자로 시작 할수 없다.
-자바스크립트 예약어는 사용할 수 없다.
-변수명은 대소문자를 구분한다.
+112323111111111111111
 
-
-## 바닐라 자바스크립트 **console.log** 찍어보기
-```
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Document</title>
-  </head>
-  <body>
-    <script>
-      const x = 5; //변수 x에 5을 저장
-    console.log (x);
-    </script>
-  </body>
-</html>
-```
-## 결과 표시 그림
-![img1](./images/../../../../assets/images/va1.png)
+## **풀이**
+123213
