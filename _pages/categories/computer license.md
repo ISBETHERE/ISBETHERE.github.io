@@ -1,5 +1,5 @@
 ---
-title:  computer license
+title:  Computer license
 layout: archive
 permalink: categories/computer license
 author_profile: true
