@@ -29,7 +29,7 @@
                     {% endif %}
                 {% endfor %}
                 {% for category in site.categories %}
-                {% if category[0] == "정보처리기사" %}
+                {% if category[0] == "Engineer_Information_Processing" %}
                     <li><a href="/categories/engineer_information_processing" class="">Engineer_Information_Processing ({{category[1].size}})</a></li>
                 {% endif %}
             {% endfor %}
