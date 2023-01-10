@@ -1,11 +1,11 @@
 ---
 title:  정보처리기사
 layout: archive
-permalink: categories/정보처리기사
+permalink: categories/computer license
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.정보처리기사 %}
+{% assign posts = site.categories.Computer license %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
