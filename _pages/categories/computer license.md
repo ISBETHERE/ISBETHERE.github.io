@@ -1,5 +1,5 @@
 ---
-title:  정보처리기사
+title:  computer license
 layout: archive
 permalink: categories/computer license
 author_profile: true
