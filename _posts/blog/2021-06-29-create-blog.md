@@ -1,9 +1,9 @@
 ---
-title: 정보처리기사
+title: blog 블로그
 categories:
-  - 정보처리기사
+  - Blogs
 tags:
-  - 정보처리기사
+  - Blogs
 toc: true
 ---
 
