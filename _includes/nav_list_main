@@ -30,7 +30,7 @@
                 {% endfor %}
                 {% for category in site.categories %}
                 {% if category[0] == "정보처리기사" %}
-                    <li><a href="/categories/computer license" class="">COMPUTER LICENSE ({{category[1].size}})</a></li>
+                    <li><a href="/categories/engineer_information_processing" class="">Engineer_Information_Processing ({{category[1].size}})</a></li>
                 {% endif %}
             {% endfor %}
             </ul>
