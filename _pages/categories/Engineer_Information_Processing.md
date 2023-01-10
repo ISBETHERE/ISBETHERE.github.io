@@ -1,7 +1,7 @@
 ---
 title:  Engineer_Information_Processing
 layout: archive
-permalink: categories/engineer_Information_Processing
+permalink: categories/engineer_information_processing
 author_profile: true
 sidebar_main: true
 ---
